@@ -8,5 +8,5 @@ Solver is divided into to parts. First part, Presolver makes following steps:
 * Uses numbers that starts from edges of the grid
 * Fills row/column that fully completes that set of numbers
 
-Second part is an actual solver in terms of the loops. The idea is to determine logic of filling rows/columns based on gaps and squares.
+Second part is an actual solver in term of the loop. The idea is to implement and determine logic of filling rows/columns based on gaps and squares.
 This part is not implemented because I cant figure out how to make this algorimn work logically. 
